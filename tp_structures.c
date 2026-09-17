@@ -71,4 +71,3 @@ void changer_etat(Equipement *eq) {
     // TODO: Modifier la valeur de est_actif en passant par le pointeur
 }
 
-tt
